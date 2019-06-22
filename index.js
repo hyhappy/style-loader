@@ -10,11 +10,10 @@ module.exports.pitch = function (remainingRequest) {
 		var styleInject = require(${loaderUtils.stringifyRequest(this, "style-inject/dist/style-inject")});
 		var css = '';
 		if (typeof result === "string") {
-				css = result;
+			css = result;
 		} else {
-				css = result.toString();
+			css = result.toString();
 		}
-		window.styleInject = styleInject
 		styleInject(css);
 		module.exports = css;
 	`;
