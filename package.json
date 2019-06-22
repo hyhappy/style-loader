@@ -1,6 +1,6 @@
 {
   "name": "style-loader2",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "like style-loader，but only support inject",
   "main": "index.js",
   "scripts": {
