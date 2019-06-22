@@ -1,0 +1,27 @@
+{
+  "name": "style-loader2",
+  "version": "1.0.0",
+  "description": "like style-loader，but only support inject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyhappy/style-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "css"
+  ],
+  "author": "hyhappy <1056605736@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyhappy/style-loader/issues"
+  },
+  "homepage": "https://github.com/hyhappy/style-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  }
+}
