@@ -1,6 +1,6 @@
 {
   "name": "style-loader2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "like style-loader，but only support inject",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/hyhappy/style-loader#readme",
   "dependencies": {
-    "loader-utils": "^1.2.3"
+    "loader-utils": "^1.2.3",
+    "style-inject": "^0.3.0"
   }
 }
