@@ -1,5 +1,6 @@
-# style-loader
+# style-loader2
 like style-loader，but only support inject
+> version：1.0.0 is deprecated
 
 ## usage
 just like style-loader
